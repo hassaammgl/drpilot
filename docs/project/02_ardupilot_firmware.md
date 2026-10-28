@@ -97,7 +97,7 @@ QUERT, Empty, …) implements it:
 | `AP_HAL_SITL` | runs the same interface against simulated serials, simulated GPS, physics engine |
 | `AP_HAL_ESP32` | ESP32 microcontrollers |
 | `AP_HAL_Linux` | BeagleBone/Pi-style SBC I/O |
-| `AP_HAL_QURT` | Qualcomm hexagon DSP (虚 drone builds) |
+| `AP_HAL_QURT` | Qualcomm hexagon DSP (virtual drone builds) |
 | `AP_HAL_Empty` | skeleton to port to a new platform |
 
 There is **one board definition per hardware target in

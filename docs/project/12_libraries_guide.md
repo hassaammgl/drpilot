@@ -48,7 +48,7 @@ control, `AR_*` = rover-specific, no prefix = generic utility (e.g. `PID`,
 | `AP_Beacon` | indoor position beacons (Pozyx, Marvelmind) |
 | `AP_OpticalFlow` | downward optical flow |
 | `AP.VisualOdom` (`AP_VisualOdom`) | visual odomety (Vicon/VIO) |
-| `AP_ExternalAHRS` | third-party AHRS/INS integration (VectorNav, Microstrain,捆 by CAN/serial) |
+| `AP_ExternalAHRS` | third-party AHRS/INS integration (VectorNav, Microstrain, over CAN/serial) |
 | `AP_IRLock` | IR lock sensors (e.g. IR-LOCK beacon landing) |
 | `AP_Proximity` | obstacle distance sensors (lidar arrays etc.) |
 | `AP_ADSB` | ADSB traffic (uAvionix Ping etc.) |

@@ -42,3 +42,12 @@
 [submodule "modules/littlefs"]
 	path = modules/littlefs
 	url = https://github.com/ArduPilot/littlefs.git
+[submodule "gcs/MissionPlanner"]
+	path = gcs/MissionPlanner
+	url = https://github.com/ArduPilot/MissionPlanner.git
+[submodule "gcs/MAVProxy"]
+	path = gcs/MAVProxy
+	url = https://github.com/ArduPilot/MAVProxy.git
+[submodule "gcs/qgroundcontrol"]
+	path = gcs/qgroundcontrol
+	url = https://github.com/mavlink/qgroundcontrol.git
